@@ -1,0 +1,16 @@
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/bin/Debug/netcoreapp2.1/Infrastructure.deps.json
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/bin/Debug/netcoreapp2.1/Infrastructure.dll
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/bin/Debug/netcoreapp2.1/Infrastructure.pdb
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/bin/Debug/netcoreapp2.1/ApplicationCore.dll
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/bin/Debug/netcoreapp2.1/Microsoft.EntityFrameworkCore.dll
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/bin/Debug/netcoreapp2.1/ApplicationCore.pdb
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/bin/Debug/netcoreapp2.1/Microsoft.EntityFrameworkCore.xml
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/bin/Debug/netcoreapp2.1/Microsoft.Extensions.Logging.Abstractions.xml
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.csprojAssemblyReference.cache
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.csproj.CoreCompileInputs.cache
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.AssemblyInfoInputs.cache
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.AssemblyInfo.cs
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.csproj.CopyComplete
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.dll
+/home/javaone/workspace/dotnet/MathTeacher/src/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.pdb

@@ -1,0 +1,9 @@
+/home/javaone/workspace/dotnet/MathTeacher/src/ApplicationCore/bin/Debug/netcoreapp2.1/ApplicationCore.deps.json
+/home/javaone/workspace/dotnet/MathTeacher/src/ApplicationCore/bin/Debug/netcoreapp2.1/ApplicationCore.dll
+/home/javaone/workspace/dotnet/MathTeacher/src/ApplicationCore/bin/Debug/netcoreapp2.1/ApplicationCore.pdb
+/home/javaone/workspace/dotnet/MathTeacher/src/ApplicationCore/obj/Debug/netcoreapp2.1/ApplicationCore.csprojAssemblyReference.cache
+/home/javaone/workspace/dotnet/MathTeacher/src/ApplicationCore/obj/Debug/netcoreapp2.1/ApplicationCore.csproj.CoreCompileInputs.cache
+/home/javaone/workspace/dotnet/MathTeacher/src/ApplicationCore/obj/Debug/netcoreapp2.1/ApplicationCore.AssemblyInfoInputs.cache
+/home/javaone/workspace/dotnet/MathTeacher/src/ApplicationCore/obj/Debug/netcoreapp2.1/ApplicationCore.AssemblyInfo.cs
+/home/javaone/workspace/dotnet/MathTeacher/src/ApplicationCore/obj/Debug/netcoreapp2.1/ApplicationCore.dll
+/home/javaone/workspace/dotnet/MathTeacher/src/ApplicationCore/obj/Debug/netcoreapp2.1/ApplicationCore.pdb
