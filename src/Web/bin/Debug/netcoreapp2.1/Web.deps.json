@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "b456856a53664c584af8b14c2bf1d1299e6c826d"
+    "signature": "ba7f254f3b176a2e81d57080aaed5b97c2414706"
   },
   "compilationOptions": {
     "defines": [
@@ -35,6 +35,20 @@
         },
         "compile": {
           "Web.dll": {}
+        }
+      },
+      "Ardalis.GuardClauses/1.2.3": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.1/Ardalis.GuardClauses.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard1.1/Ardalis.GuardClauses.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore/2.1.2": {
@@ -339,6 +353,9 @@
         }
       },
       "ApplicationCore/1.0.0": {
+        "dependencies": {
+          "Ardalis.GuardClauses": "1.2.3"
+        },
         "runtime": {
           "ApplicationCore.dll": {}
         },
@@ -3236,6 +3253,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Ardalis.GuardClauses/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vbseGD73Uo7zqeX0vYyEVDv3EWn4AMA3X+D8otpxn5GLPeXQjkVIw/ITUMAzco72EAHDogy2T4UQtq99Dt8Pug==",
+      "path": "ardalis.guardclauses/1.2.3",
+      "hashPath": "ardalis.guardclauses.1.2.3.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore/2.1.2": {
       "type": "package",
